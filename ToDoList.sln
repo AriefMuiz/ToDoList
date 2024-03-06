@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList", "ToDoList\ToDoList.csproj", "{7ECAC9EE-352F-4FBA-BEAC-E0211E2CE04E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoDB", "ToDoDB\ToDoDB.csproj", "{AB92573F-45B4-47BC-AA25-9099FE304537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Test", "ToDoList.Test\ToDoList.Test.csproj", "{BAC8421F-92A9-4C5C-8A4A-54F84AC3AC56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ECAC9EE-352F-4FBA-BEAC-E0211E2CE04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECAC9EE-352F-4FBA-BEAC-E0211E2CE04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECAC9EE-352F-4FBA-BEAC-E0211E2CE04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECAC9EE-352F-4FBA-BEAC-E0211E2CE04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB92573F-45B4-47BC-AA25-9099FE304537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB92573F-45B4-47BC-AA25-9099FE304537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB92573F-45B4-47BC-AA25-9099FE304537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB92573F-45B4-47BC-AA25-9099FE304537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC8421F-92A9-4C5C-8A4A-54F84AC3AC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC8421F-92A9-4C5C-8A4A-54F84AC3AC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC8421F-92A9-4C5C-8A4A-54F84AC3AC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC8421F-92A9-4C5C-8A4A-54F84AC3AC56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97E8B10-F45D-4178-9FA0-0964E60072C6}
+	EndGlobalSection
+EndGlobal

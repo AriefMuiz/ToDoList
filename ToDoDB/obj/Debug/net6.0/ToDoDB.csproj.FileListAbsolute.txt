@@ -1,0 +1,14 @@
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\obj\Debug\net6.0\ToDoDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\obj\Debug\net6.0\ToDoDB.AssemblyInfoInputs.cache
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\obj\Debug\net6.0\ToDoDB.AssemblyInfo.cs
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\obj\Debug\net6.0\ToDoDB.csproj.CoreCompileInputs.cache
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\bin\Debug\net6.0\ToDoDB.deps.json
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\bin\Debug\net6.0\ToDoDB.runtimeconfig.json
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\bin\Debug\net6.0\ToDoDB.dll
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\bin\Debug\net6.0\ToDoDB.pdb
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\obj\Debug\net6.0\ToDoDB.csproj.AssemblyReference.cache
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\obj\Debug\net6.0\ToDoDB.dll
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\obj\Debug\net6.0\refint\ToDoDB.dll
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\obj\Debug\net6.0\ToDoDB.pdb
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\obj\Debug\net6.0\ToDoDB.genruntimeconfig.cache
+E:\Bekup\Laptop_Baru\SRA_DOC\Internship\datamicron\Task\ToDoList\ToDoDB\obj\Debug\net6.0\ref\ToDoDB.dll
